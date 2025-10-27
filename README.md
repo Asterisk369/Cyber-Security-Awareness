@@ -32,10 +32,13 @@ This type of trick is called a homograph attack, and it’s one of the easiest w
 
 
 **Other Sneaky Examples:**
-🔸 support@paypaI.com → that’s a capital I, not an l (L)
-🔸 help@arnazon.com → “rn” instead of “m”
-🔸 security@appIe.co → missing “.com” and it is capital i (I) instead of l (L) in 'apple'
-🔸 info@googIe.com → capital “I” instead of “l” (L)
+| **Incorrect Email**            | **Alterations**                                             | **Corrected Version**      |
+|-------------------------------|-----------------------------------------------------------|----------------------------|
+| support@paypaI.com           | Capital **I** instead of a lowercase **l** (L)           | support@paypal.com         |
+| help@arnazon.com             | Letters **rn** instead of **m**                           | help@amazon.com            |
+| security@appIe.co            | Missing **.com** and capital **I** instead of **l** (L)   | security@apple.com         |
+| info@googIe.com              | Capital **I** instead of lowercase **l** (L)              | info@gmail.com             |
+
 
 	Quick Tips to Stay Safe
 	Hover over links before clicking. Also ensure to double-check the actual URL.
