@@ -1,8 +1,8 @@
 # Cyber-Security-Awareness
-"Cyber Security Awareness" is a dedicated repository aimed at promoting knowledge and best practices in the realm of cyber security. Our mission is to empower individuals and organizations with the information they need to protect themselves online.
+**Cyber Security Awareness** is a dedicated repository aimed at promoting knowledge and best practices in the realm of cyber security. Our mission is to empower individuals and organizations with the information they need to protect themselves online.
 
 # Phishing Awareness
- *Email Phishing* 
+**Email Phishing**
  _What is email phishing? ⚓_
 Email phishing is a type of cybercrime where attackers send fraudulent emails disguised as legitimate messages in order to deceive recipients into revealing sensitive information, such as passwords, credit card numbers, or personal details. Phishing attacks typically involve social engineering techniques to create a sense of urgency or trust, enticing users to click on links or download attachments.
 
