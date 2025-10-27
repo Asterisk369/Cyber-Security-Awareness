@@ -21,8 +21,8 @@ _Example to identify the Phishing mail_
 I came across this image recently 👇 and it’s a perfect reminder of how sophisticated online scams have become.
 
 At first glance, both of these email addresses look identical:
-📧 noreply@microsoft.com
-📧 noreply@microsоft.com
+1. 📧 noreply@microsoft.com
+2. 📧 noreply@microsоft.com
 
 But looking closer, you'll realize that the second one uses a Cyrillic “о”, not an English “o” Also, the second one contains capital letter 'i' instead of letter 'l' (L).
 
