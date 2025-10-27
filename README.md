@@ -6,6 +6,12 @@
  _What is email phishing? ⚓_
 Email phishing is a type of cybercrime where attackers send fraudulent emails disguised as legitimate messages in order to deceive recipients into revealing sensitive information, such as passwords, credit card numbers, or personal details. Phishing attacks typically involve social engineering techniques to create a sense of urgency or trust, enticing users to click on links or download attachments.
 
+**Preventive Measures⚒️**
+1.	Verify the Sender: Always check the email address and look for inconsistencies.
+2.	Do Not Click Links: Hover over links to see where they lead before clicking.
+3.	Use Security Software: Install and maintain updated antivirus and antimalware software.
+4.	Educate Yourself and Others: Learning about phishing tactics can help you recognize potential threats.
+
 _Common Characteristics of Email Phishing 🧐_
 1.	Sender Impersonation: Attackers often use email addresses similar to those of legitimate organizations.
 2.	Urgent Language: Emails may create a false sense of urgency, urging the recipient to act quickly.
